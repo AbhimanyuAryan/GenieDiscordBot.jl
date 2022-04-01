@@ -1,5 +1,7 @@
 module GenieDiscordBot
 
-# Write your package code here.
+using Discord
+
+c = Client("")
 
 end
